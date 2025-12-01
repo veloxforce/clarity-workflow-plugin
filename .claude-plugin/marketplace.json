@@ -8,7 +8,7 @@
     {
       "name": "clarity-workflow",
       "description": "Disambiguation workflow with clarity phases",
-      "source": "."
+      "source": "./"
     }
   ]
 }
